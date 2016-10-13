@@ -1,0 +1,786 @@
+if(currentTime > 24400) {
+  if(squarestate == 53) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 52;
+}
+else {
+  if(currentTime > 23600) {
+  if(squarestate == 53) {
+    fill(255);
+    rect(500, 200, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 25200) {
+if(doonce == 1 && squarestate == 52) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 51;
+}
+else {
+  if(squarestate == 52) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1;
+}
+
+if(currentTime > 26000) {
+  if(squarestate == 51) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 50;
+}
+else {
+  if(squarestate == 51) {
+    fill(255);
+    rect(400, 300, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 27600) {
+  if(squarestate == 50) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 49;
+}
+else {
+  if(currentTime > 26800) {
+  if(squarestate == 50) {
+    fill(255);
+    rect(175, 525, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 28400) {
+  if(squarestate == 49) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 48;
+}
+else {
+  if(squarestate == 49) {
+    fill(255);
+    rect(300, 400, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 29200) {
+  if(squarestate == 48) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 47;
+}
+else {
+  if(squarestate == 48) {
+    fill(255);
+    rect(400, 300, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 30800) {
+  if(squarestate == 47) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 46;
+}
+else {
+  if(currentTime > 30000) {
+  if(squarestate == 47) {
+    fill(255);
+    rect(225, 475, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 31600) {
+  if(squarestate == 46) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 45;
+}
+else {
+  if(squarestate == 46) {
+    fill(255);
+    rect(300, 400, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 32400) {
+  if(squarestate == 45) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 44;
+}
+else {
+  if(squarestate == 45) {
+    fill(255);
+    rect(400, 300, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 34000) {
+  if(squarestate == 44) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 43;
+}
+else {
+  if(currentTime > 33200) {
+  if(squarestate == 44) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 34800) {
+  if(squarestate == 43) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 42;
+}
+else {
+  if(squarestate == 43) {
+    fill(255);
+    rect(400, 300, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 35600) {
+  if(squarestate == 42) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 41;
+}
+else {
+  if(squarestate == 42) {
+    fill(255);
+    rect(475, 225, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 37200) {
+  if(squarestate == 41) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 40;
+}
+else {
+  if(currentTime > 36400) {
+  if(squarestate == 41) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 38000) {
+  if(squarestate == 40) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 39;
+}
+else {
+  if(squarestate == 40) {
+    fill(255);
+    rect(450, 250, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 38800) {
+  if(squarestate == 39) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 38;
+}
+else {
+  if(squarestate == 39) {
+    fill(255);
+    rect(525, 175, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 40400) {
+  if(squarestate == 38) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 37;
+}
+else {
+  if(currentTime > 39600) {
+  if(squarestate == 38) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 41200) {
+  if(squarestate == 37) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 36;
+}
+else {
+  if(squarestate == 37) {
+    fill(255);
+    rect(475, 225, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 42000) {
+  if(squarestate == 36) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 35;
+}
+else {
+  if(squarestate == 36) {
+    fill(255);
+    rect(600, 100, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 43600) {
+  if(squarestate == 35) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 34;
+}
+else {
+  if(currentTime > 42800) {
+  if(squarestate == 35) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 44400) {
+  if(squarestate == 34) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 33;
+}
+else {
+  if(squarestate == 34) {
+    fill(255);
+    rect(350, 350, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 45200) {
+  if(squarestate == 33) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 32;
+}
+else {
+  if(squarestate == 33) {
+    fill(255);
+    rect(450, 250, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 46800) {
+  if(squarestate == 32) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 31;
+}
+else {
+  if(currentTime > 46000) {
+  if(squarestate == 32) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 47600) {
+  if(squarestate == 31) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 30;
+}
+else {
+  if(squarestate == 31) {
+    fill(255);
+    rect(400, 300, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 48400) {
+  if(squarestate == 30) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 29;
+}
+else {
+  if(squarestate == 30) {
+    fill(255);
+    rect(475, 225, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 50000) {
+  if(squarestate == 29) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 28;
+}
+else {
+  if(currentTime > 49200) {
+  if(squarestate == 29) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+}
+
+if(currentTime > 50800) {
+  if(squarestate == 28) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 27;
+}
+else {
+  if(squarestate == 28) {
+    fill(255);
+    rect(450, 250, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 51600) {
+  if(squarestate == 27) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 26;
+}
+else {
+  if(squarestate == 27) {
+    fill(255);
+    rect(525, 175, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 52400) {
+  if(squarestate == 26) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 25;
+}
+else {
+  if(squarestate == 26) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+
+//Back-to-Back Sequence
+
+if(currentTime > 53200) {
+  if(squarestate == 25) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 24;
+}
+else {
+  if(squarestate == 25) {
+    fill(255);
+    rect(500, 200, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 54000) {
+  if(squarestate == 24) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 23;
+}
+else {
+  if(squarestate == 24) {
+    fill(255);
+    rect(400, 300, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 54800) {
+  if(squarestate == 23) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 22;
+}
+else {
+  if(squarestate == 23) {
+    fill(255);
+    rect(525, 175, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 55600) {
+  if(squarestate == 22) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 21;
+}
+else {
+  if(squarestate == 22) {
+    fill(255);
+    rect(450, 250, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 56400) {
+  if(squarestate == 21) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 20;
+}
+else {
+  if(squarestate == 21) {
+    fill(255);
+    rect(600, 100, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 57200) {
+  if(squarestate == 20) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 19;
+}
+else {
+  if(squarestate == 20) {
+    fill(255);
+    rect(525, 175, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 58000) {
+  if(squarestate == 19) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 18;
+}
+else {
+  if(squarestate == 19) {
+    fill(255);
+    rect(600, 100, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 58800) {
+  if(squarestate == 18) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 17;
+}
+else {
+  if(squarestate == 18) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 59600) {
+  if(squarestate == 17) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 16;
+}
+else {
+  if(squarestate == 17) {
+    fill(255);
+    rect(275, 425, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 60400) {
+  if(squarestate == 16) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 15;
+}
+else {
+  if(squarestate == 16) {
+    fill(255);
+    rect(300, 400, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 61200) {
+  if(squarestate == 15) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 14;
+}
+else {
+  if(squarestate == 15) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 62000) {
+  if(squarestate == 14) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 13;
+}
+else {
+  if(squarestate == 14) {
+    fill(255);
+    rect(175, 525, 50, 50);
+  }
+  //doonce = 1
+}
+
+//Back-to-Back Sequence 2
+
+if(currentTime > 62800) {
+  if(squarestate == 13) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 12;
+}
+else {
+  if(squarestate == 13) {
+    fill(255);
+    rect(500, 200, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 63600) {
+  if(squarestate == 12) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 11;
+}
+else {
+  if(squarestate == 12) {
+    fill(255);
+    rect(400, 300, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 64400) {
+  if(squarestate == 11) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 10;
+}
+else {
+  if(squarestate == 11) {
+    fill(255);
+    rect(525, 175, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 65200) {
+  if(squarestate == 10) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 9;
+}
+else {
+  if(squarestate == 10) {
+    fill(255);
+    rect(450, 250, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 66000) {
+  if(squarestate == 9) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 8;
+}
+else {
+  if(squarestate == 9) {
+    fill(255);
+    rect(600, 100, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 66800) {
+  if(squarestate == 8) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 7;
+}
+else {
+  if(squarestate == 8) {
+    fill(255);
+    rect(525, 175, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 67600) {
+  if(squarestate == 7) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 6;
+}
+else {
+  if(squarestate == 7) {
+    fill(255);
+    rect(600, 100, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 68400) {
+  if(squarestate == 6) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 5;
+}
+else {
+  if(squarestate == 6) {
+    fill(255);
+    rect(250, 450, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 69200) {
+  if(squarestate == 5) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 4;
+}
+else {
+  if(squarestate == 5) {
+    fill(255);
+    rect(400, 300, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 70000) {
+  if(squarestate == 4) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 3;
+}
+else {
+  if(squarestate == 4) {
+    fill(255);
+    rect(500, 200, 50, 50);
+  }
+  //doonce = 1
+}
+
+if(currentTime > 70800) {
+  if(squarestate == 3) {
+  //background(0);
+  //doonce = 0;
+}
+squarestate = 2;
+}
+else {
+  if(squarestate == 3) {
+    fill(255);
+    rect(600, 100, 50, 50);
+  }
+  //doonce = 1
+}
